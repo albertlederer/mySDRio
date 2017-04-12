@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[mySDRio]
+mySDRio = "192.168.2.36"
+
+[RT Single-Board RIO Target]
+RT Single-Board RIO Target = "0.0.0.0"
+
